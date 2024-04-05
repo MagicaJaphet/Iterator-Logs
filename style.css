@@ -11,9 +11,12 @@ a:visited {
 }
 
 body {
-    background: url("background.png");
     color: #fff;
     font-family: Consolas, monaco, monospace;
+    margin: 0;
+    background: linear-gradient(rgba(255, 101, 54, 0.7) 0%, rgba(221, 52, 30, 0.7) 35%, rgba(75, 52, 46, 0.7) 65%, rgba(36, 31, 31, 0.7) 100%), url("gf_background.png");
+    background-size: contain;
+    background-position: center;
 }
 
 .hoplink a{
@@ -34,7 +37,7 @@ body {
     list-style: none;
     text-align: center;
     width: 25%;
-    height: 110%;
+    height: 100%;
     padding: 2% 0 4% 0;
     float: left;
     position: fixed;
@@ -60,8 +63,8 @@ body {
 
 .entry {
     margin: 2%;
-    padding: 2%;
-    background:rgba(0, 0, 0, 0.9);
+    padding: 2% 4%;
+    background:rgba(0, 0, 0, 0.8);
     border-radius: 10px;
     border: 1px solid #fff;
 }
