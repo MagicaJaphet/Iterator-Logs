@@ -1,20 +1,108 @@
-a {
+.GF a {
     color: #EE7043;
     text-decoration: none;
 }
-a:hover {
+.GF a:hover {
     color: #c05229;
     text-decoration: underline;
 }
-a:visited {
-    color:rgb(46, 144, 255);
+.GF a:visited {
+    color:rgb(102, 107, 112);
 }
 
-body {
+.DPS a {
+    color: #FFC6F0;
+    text-decoration: none;
+}
+.DPS a:hover {
+    color: #e981cd;
+    text-decoration: underline;
+}
+.DPS a:visited {
+    color:rgb(173, 96, 82);
+}
+
+.LABL a {
+    color: #849DE8;
+    text-decoration: none;
+}
+.LABL a:hover {
+    color: #4166d4;
+    text-decoration: underline;
+}
+.LABL a:visited {
+    color:rgb(123, 102, 136);
+}
+
+.JC a {
+    color: #C9C74A;
+    text-decoration: none;
+}
+.JC a:hover {
+    color: #aca927;
+    text-decoration: underline;
+}
+.JC a:visited {
+    color:rgb(121, 121, 121);
+}
+
+.DLS a {
+    color: #00CAD2;
+    text-decoration: none;
+}
+.DLS a:hover {
+    color: #05999e;
+    text-decoration: underline;
+}
+.DLS a:visited {
+    color:rgb(206, 187, 78);
+}
+
+.iconrow .active, .iconrow img:hover {
+    filter: grayscale(100%);
+}
+
+.GF {
     color: #fff;
     font-family: Consolas, monaco, monospace;
     margin: 0;
-    background: linear-gradient(rgba(255, 101, 54, 0.7) 0%, rgba(221, 52, 30, 0.7) 35%, rgba(75, 52, 46, 0.7) 65%, rgba(36, 31, 31, 0.7) 100%), url("gf_background.png");
+    background: linear-gradient(rgba(255, 101, 54, 0.7) 0%, rgba(221, 52, 30, 0.5) 35%, rgba(75, 52, 46, 0.7) 65%, rgba(19, 16, 16, 0.7) 80%), url("gf_background.png");
+    background-size: contain;
+    background-position: center;
+}
+
+.DPS {
+    color: #fff;
+    font-family: Consolas, monaco, monospace;
+    margin: 0;
+    background: linear-gradient(rgba(235, 157, 255, 0.7) 0%, rgba(19, 16, 16, 0.7) 80%);
+    background-size: contain;
+    background-position: center;
+}
+
+.LABL {
+    color: #fff;
+    font-family: Consolas, monaco, monospace;
+    margin: 0;
+    background: linear-gradient(rgba(44, 111, 255, 0.7) 0%, rgba(19, 16, 16, 0.7) 80%);
+    background-size: contain;
+    background-position: center;
+}
+
+.JC {
+    color: #fff;
+    font-family: Consolas, monaco, monospace;
+    margin: 0;
+    background: linear-gradient(rgba(255, 208, 54, 0.7) 0%, rgba(19, 16, 16, 0.7) 80%);
+    background-size: contain;
+    background-position: center;
+}
+
+.DLS {
+    color: #fff;
+    font-family: Consolas, monaco, monospace;
+    margin: 0;
+    background: linear-gradient(rgba(20, 211, 224, 0.7) 0%, rgba(19, 16, 16, 0.7) 80%);
     background-size: contain;
     background-position: center;
 }
@@ -45,6 +133,16 @@ body {
     left: 0;
     background: rgba(0, 0, 0, 0.8);
 }
+.logentries li{
+    text-align: left;
+    padding: 0 5%;
+}
+.logentries h2 {
+    margin-bottom: 0;
+}
+.logentries hr {
+    width: 90%;
+}
 
 .logcollection {
     width: 75%;
@@ -53,12 +151,14 @@ body {
 }
 
 .log {
-    border: 1px solid #EE7043;
-    background: rgba(238, 112, 67, 0.3);
     width: 60%;
     margin: 0 auto 6% auto;
     text-align: center;
     border-radius: 20px;
+}
+.GF .log {
+    border: 1px solid #EE7043;
+    background: rgba(238, 112, 67, 0.3);
 }
 
 .entry {
@@ -85,18 +185,21 @@ body {
     color: #EE7043;
 }
 
-#dls {
+#DPS {
+    color: #FFC6F0;
+}
+
+#LABL {
+    color: #849DE8;
+}
+
+#JC {
+    color: #C9C74A;
+}
+
+#DLS {
     color: #00CAD2;
 }
-
-#labl {
-    color: #849DE8;
-}
-
-#dps {
-    color: #849DE8;
-}
-
 
 #title {
     text-align: left;
@@ -121,5 +224,9 @@ body {
 
     .hoplink a{
         display: inline;
+    }
+
+    .iconrow {
+        padding-top: 5px;
     }
 }
