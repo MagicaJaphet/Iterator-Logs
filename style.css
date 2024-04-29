@@ -1,3 +1,19 @@
+@font-face {
+    font-family: Raindondo;
+    src: url("Raindondo.otf");
+}
+
+.iteratortitle {
+    font-family: Raindondo;
+    width: 100%;
+    font-size: 5vw;
+    text-align: center;
+    padding-bottom: 50px;
+    text-shadow: black 0 0 10px,
+    black 0 0 20px,
+    black 0 0 50px;
+}
+
 .GF a {
     color: #EE7043;
     text-decoration: none;
@@ -58,6 +74,15 @@
     color:rgb(206, 187, 78);
 }
 
+.iconrow {
+    margin: auto;
+    width: 90%;
+}
+.iconrow img {
+    width: 50px;
+    image-rendering:pixelated;
+}
+
 .iconrow .active, .iconrow img:hover {
     filter: grayscale(100%);
 }
@@ -69,6 +94,10 @@
     background: linear-gradient(rgba(255, 101, 54, 0.7) 0%, rgba(221, 52, 30, 0.5) 35%, rgba(75, 52, 46, 0.7) 65%, rgba(19, 16, 16, 0.7) 80%), url("gf_background.png");
     background-size: contain;
     background-position: center;
+}
+.gficon {
+    background-color: #EE7043;
+    border-radius: 10px;
 }
 
 .DPS {
@@ -120,6 +149,15 @@
     width: 40%;
 }
 
+.logicon {
+    margin: 0;
+    float: left;
+    width: 76px;
+    margin-left: -30px;
+    margin-top: -30px;
+    box-shadow: rgba(0, 0, 0, 0.4) 5px 5px 10px;
+}
+
 .logentries {
     font-size: large;
     list-style: none;
@@ -133,6 +171,25 @@
     left: 0;
     background: rgba(0, 0, 0, 0.8);
 }
+.logentries ul {
+    width: 80%;
+    height: 100px;
+    margin: auto;
+    border: white 1px solid;
+    padding: 10px;
+    list-style: none;
+    overflow: auto;
+    border-radius: 10px;
+}
+::-webkit-scrollbar {
+    background-color: none;
+    border-radius: 10px;
+    border: rgba(255, 255, 255, 0.3) 1px solid;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #fff;
+    border-radius: 10px;
+}
 .logentries li{
     text-align: left;
     padding: 0 5%;
@@ -140,8 +197,11 @@
 .logentries h2 {
     margin-bottom: 0;
 }
-.logentries hr {
-    width: 90%;
+
+.iteratorimage {
+    margin-top: 20px;
+    height: 70%;
+    filter:drop-shadow(0 0 2px #fff);
 }
 
 .logcollection {
@@ -211,8 +271,20 @@
       width: 100%;
       position: relative;
     }
+    .logentries ul {
+        height: auto;
+        width: 90%;
+    }
     .logentries li {
         padding-bottom: 10px;
+    }
+
+    .iteratortitle {
+        font-size: 20vw;
+    }
+
+    .iteratorimage {
+        display: none;
     }
 
     .log {
@@ -227,6 +299,12 @@
     }
 
     .iconrow {
-        padding-top: 5px;
+        padding-top: 50px;
+    }
+
+    .logicon {
+        margin-left: 0;
+        margin-top: -10px;
+        width: 40px;
     }
 }
