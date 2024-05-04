@@ -1,0 +1,43 @@
+a {
+    color: #60faff;
+}
+a:hover {
+    color: #05999e;
+}
+a:visited {
+    color:#e26197;
+}
+.logicon {
+    background: linear-gradient(rgb(149, 251, 255) 40%, rgb(255, 88, 227) 100%);
+}
+
+.log {
+    border: 1px solid #ffffff;
+    background: #ffffff4d;
+}
+
+.logcollection {
+    background: linear-gradient(rgb(91, 226, 231) 10%, rgb(88, 24, 172) 100%);
+    background-blend-mode: screen;
+}
+
+.logentries {
+    background: url("imgs/dithering.png"), rgb(98, 43, 112);
+}
+.logentries ul {
+    height: 75%;
+}
+
+.muted {
+    opacity: 0.4;
+}
+
+.iteratoricon {
+    margin: 0;
+    float: left;
+    width: 40px;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    z-index: 2;
+}

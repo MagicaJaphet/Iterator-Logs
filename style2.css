@@ -16,6 +16,7 @@ body {
 .groupname {
     color: #fff;
     font-family: Raindondo;
+    line-height: 120%;
     font-size: 5vw;
     text-align: center;
     margin-bottom: 20px;
@@ -52,6 +53,26 @@ body {
     font-size: large;
     text-shadow: 0 0 5px #000,
     0 0 8px #000;
+}
+
+#mainlogbutton {
+    background: linear-gradient(#fff 60%, #e4e4e4 100%);
+    color: #3f0c0c;
+    width: 20%;
+    margin: auto;
+    padding: 1%;
+    margin-bottom: 20px;
+    font-weight: bold;
+    text-align: center;
+    position: relative;
+    display: block;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+#mainlogbutton:hover {
+    background: linear-gradient(#868686 60%, #777777 100%);
+    color: #000000;
 }
 
 .desktop {
@@ -155,6 +176,11 @@ p {
         background:#b99469;
     }
     
+    #mainlogbutton {
+        width: 80%;
+        padding: 5% 1%;
+    }
+
     .groupname {
         font-size: 14vw;
     }

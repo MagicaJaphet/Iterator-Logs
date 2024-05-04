@@ -27,6 +27,26 @@ body {
     font-size: 10mm;
     text-decoration: none;
 }
+#backbutton:hover {
+    color: #b3b3b3;
+}
+
+#mainlogbutton {
+    background-color: #fff;
+    color: #3f0c0c;
+    width: 60%;
+    margin: auto;
+    padding: 2%;
+    position: relative;
+    display: block;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: all 0.2s;
+}
+#mainlogbutton:hover {
+    background-color: #919191;
+    color: #000000;
+}
 
 a {
     text-decoration: none;
@@ -135,7 +155,7 @@ a:hover {
 
 .iteratorimage {
     margin-top: 20px;
-    height: 65%;
+    height: 62%;
     filter:drop-shadow(0 0 2px #fff);
 }
 
