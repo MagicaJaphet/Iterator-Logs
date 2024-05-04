@@ -249,9 +249,16 @@ a:hover {
     .logentries ul {
         height: auto;
         width: 90%;
+        border-radius: 25px;
+    }
+    .logcollection {
+        margin-top: -20px;
     }
     .logentries li {
         padding-bottom: 10px;
+    }
+    .logentries {
+        padding-top: 30px;
     }
 
     .iteratortitle {
@@ -274,6 +281,7 @@ a:hover {
 
     .log {
         width: 100%;
+        margin-bottom: 50px;
     }
     #logtext {
         padding: 0;
@@ -281,10 +289,6 @@ a:hover {
 
     .hoplink a{
         display: inline;
-    }
-
-    .backbutton {
-        padding-top: 50px;
     }
 
     .logicon {

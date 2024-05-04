@@ -152,7 +152,7 @@ p {
 
 @media screen and (max-width: 800px) {
     body {
-        background-size: cover;
+        background:#b99469;
     }
     
     .groupname {
@@ -183,6 +183,9 @@ p {
     .mobile {
         display: inline-block;
         width: 100%;
+    }
+    li {
+        padding-bottom: 20px;
     }
 
 }
