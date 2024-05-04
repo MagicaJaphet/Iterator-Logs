@@ -5,41 +5,78 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Magica's Iterator Logs</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="jc.css">
 </head>
-<body class="JC">
+<body>
     <div class="container">
-        <ul class="logentries" id="main">
+        <div class="logentries" id="main">
+            <a href="index.html" id="backbutton">Back to Main</a>
             <div class="iconrow">
-                <a href="index.html"><img src="GF.png" title="Grinding Fireflies"></a>
-                <a href="dps.html"><img src="DPS.png" title="Dancing Pragmatic Scope"></a>
-                <a href="labl.html"><img src="LABL.png" title="Lights Above Breathing Lakes"></a>
-                <img src="JC.png" title="Joyous Composition" class="active">
-                <a href="dls.html"><img src="DLS.png" title="Drawnout Lyre Strings"></a>
-                <a href="pc.html"><img src="PC2.png" title="Provisional Constellations"></a>
+                <a href="gf.html"><img src="imgs/GF.png" title="Grinding Fireflies"></a>
+                <a href="dps.html"><img src="imgs/DPS.png" title="Dancing Pragmatic Scope"></a>
+                <a href="labl.html"><img src="imgs/LABL.png" title="Lights Above Breathing Lakes"></a>
+                <img src="imgs/JC.png" title="Joyous Composition" class="active">
+                <a href="dls.html"><img src="imgs/DLS.png" title="Drawnout Lyre Strings"></a>
+                <a href="pc.html"><img src="imgs/PC2.png" title="Provisional Constellations"></a>
             </div>
 
-            <h2>RECORDED LOGS</h1>
-            <hr>
-            <li><a href="#JC_side_1">903.409 - Escapism unbound</a></li>
-        </ul>
+            <h2>RECORDED LOGS</h2>
+            <ul class="logs">
+                <li><a href="#JC_init">0539.372 - A scratchy start</a></li>
+                <li><a href="#JC_side_1">0903.409 - Escapism unbound</a></li>
+            </ul>
+
+            <img src="imgs/joyous composition.png" class="iteratorimage">
+        </div>
     
         <div class="logcollection">
-            <div class="log" id="JC_side_1">
+
+            <div class="iteratortitle">Joyous Composition</div>
+
+            <div class="log" id="JC_init">
+                <img src="imgs/icon log.png" class="logicon">
                 <div class="entry">
-                    <p id="title">903.409 - [PRIVATE GROUP]
-                    <br>Drawnout Lyre Strings, Grinding Fireflies, Lights Above Breathing Lakes, Joyous Composition</p>
+                    <p id="title">539.372 - [INITIALIZING]
+                    <br>Model 10.8.96, Created Under: Heap of Suns, Drooping Seedlings [#A]</p>
                     <div id="logtext">
-                        <p id="LABL">LABL: More and more of my citizens have been leaving as of late. Seems the void baths have grown more enticing to them as of late.</p>
-                        <p id="DPS">DPS: Is that so? I wonder why, you were talking about their upcoming grand festival. Are plans cancelled? I would have loved to see photos.</p>
-                        <p id="LABL">LABL: I'm unsure, but I also hope it's not cancelled! For the meantime, I am still working on those tasks for some organisms they want to show off during the festival. If they don't use them, well more for me to keep!</p>
-                        <p id="GF">GF: Keep...? Since when had you started hoarding organisms?</p>
-                        <p id="LABL">LABL: Haha, as of late. Maybe the past 100 or so cycles. With my citizens slowly dwindling, I have been feeling more lonely as of late. I need more pictures from your overseers guys!</p>
-                        <p id="JC">JC: On it.</p>
+                        <p id="admin">... Ah, why are the conduits not functioning Properly?</p>
+                        <p id="admin">Joyous? Can you hear me?</p>
+                        <p id="info">[The Puppet is unmoving, but it does Speak.]</p>
+                        <p id="JC">H-h-heeeeeeeeeeeey. Hey. Wha-at's going on?</p>
+                        <p id="admin">I Sincerly apologize, it seems your startup is going haywire.</p>
+                        <p id="admin">Allow me to-</p>
+                        <p id="info">[Heap of Suns attempts to turn the Puppet's functions off and then on again.]</p>
+                        <p id="JC">... [The Puppet begins to move] The-there we go? We go? Hi.</p>
+                        <p id="admin">Whew. Good, can you state your directive, Joyous Composition?</p>
+                        <p id="JC">My... directive? My direction- It is, hold on.</p>
+                        <p id="JC">My purpose is to advance Storage technology for future ages and archives to come.</p>
+                        <p id="admin">Excellent. We will continue overlooking your... your unstable conduits, in which we may need to install thicker walls. For now, take Your time.</p>
+                        <p id="JC">... Thank you.</p>
+                        <p id="info">[Initialization noted to have been started too early, but still successful.]</p>
+                    </div>
+                </div>
+                <div class="hoplink">
+                    <a href="#main">Back to Top</a>
+                </div>
+            </div>
+
+            <div class="log" id="JC_side_1">
+                <img src="imgs/icon broadcast.png" class="logicon jcicon">
+                <div class="entry">
+                    <p id="title">903.409 - [PRIVATE GROUP] DANCEOFFATES
+                    <br>Dancing Pragmatic Scope, Drawnout Lyre Strings, Grinding Fireflies, Lights Above Breathing Lakes, Joyous Composition</p>
+                    <div id="logtext">
+                        <p id="LABL">More and more of my citizens have been leaving as of late. Seems the void baths have grown more enticing to them as of late.</p>
+                        <p id="DPS">Is that so? I wonder why, you were talking about their upcoming grand festival. Are plans cancelled? I would have loved to see photos.</p>
+                        <p id="LABL">I'm unsure, but I also hope it's not cancelled! For the meantime, I am still working on those tasks for some organisms they want to show off during the festival. If they don't use them, well more for me to keep!</p>
+                        <p id="GF">Keep...? Since when had you started hoarding organisms?</p>
+                        <p id="LABL">Haha, as of late. Maybe the past 100 or so cycles. With my citizens slowly dwindling, I have been feeling more lonely as of late. I need more pictures from your overseers guys!</p>
+                        <p id="JC">On it.</p>
                         <p>[Attachment: Untitled_2859.PMX]</p>
-                        <p id="GF">GF: I see. Oh, Joyous, I can't download this. It seems I already have a file named this.</p>
-                        <p id="JC">JC: Ack, really? I swear my incrementer program was perfect. Thanks for pointing that out.</p>
-                        <p id="DPS">DPS: Perhaps you should actually give them a title, and not simply "untitled".</p>
-                        <p id="GF">GF: Ahahaha. That gives me a laugh! Maybe I need to learn how to organize the other 2859 first!</p>
+                        <p id="GF">I see. Oh, Joyous, I can't download this. It seems I already have a file named this.</p>
+                        <p id="JC">Ack, really? I swear my incrementer program was perfect. Thanks for pointing that out.</p>
+                        <p id="DPS">Perhaps you should actually give them a title, and not simply "untitled".</p>
+                        <p id="GF">Ahahaha. That gives me a laugh! Maybe I need to learn how to organize the other 2859 first!</p>
                     </div>
                 </div>
                 <div class="hoplink">

@@ -1,0 +1,26 @@
+a {
+    color: #FFC6F0;
+}
+a:hover {
+    color: #e981cd;
+}
+a:visited {
+    color:#ad6052;
+}
+.logicon {
+    background-color: #FFC6F0;
+}
+
+.log {
+    border: 1px solid #e981cd;
+    background: rgba(233, 129, 205, 0.3);
+}
+
+.logcollection {
+    background: linear-gradient(#ffaced 0%, #112a35 100%), url("imgs/test2.png") center;
+    background-blend-mode: screen;
+}
+
+.logentries {
+    background: url("imgs/dithering.png"), #1f3035;
+}

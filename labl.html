@@ -5,42 +5,90 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Magica's Iterator Logs</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="labl.css">
 </head>
-<body class="LABL">
+<body>
     <div class="container">
-        <ul class="logentries" id="main">
+        <div class="logentries" id="main">
+            <a href="index.html" id="backbutton">Back to Main</a>
             <div class="iconrow">
-                <a href="index.html"><img src="GF.png" title="Grinding Fireflies"></a>
-                <a href="dps.html"><img src="DPS.png" title="Dancing Pragmatic Scope"></a>
-                <img src="LABL.png" title="Lights Above Breathing Lakes" class="active">
-                <a href="jc.html"><img src="JC.png" title="Joyous Composition"></a>
-                <a href="dls.html"><img src="DLS.png" title="Drawnout Lyre Strings"></a>
-                <a href="pc.html"><img src="PC2.png" title="Provisional Constellations"></a>
+                <a href="gf.html"><img src="imgs/GF.png" title="Grinding Fireflies"></a>
+                <a href="dps.html"><img src="imgs/DPS.png" title="Dancing Pragmatic Scope"></a>
+                <img src="imgs/LABL.png" title="Lights Above Breathing Lakes" class="active">
+                <a href="jc.html"><img src="imgs/JC.png" title="Joyous Composition"></a>
+                <a href="dls.html"><img src="imgs/DLS.png" title="Drawnout Lyre Strings"></a>
+                <a href="pc.html"><img src="imgs/PC2.png" title="Provisional Constellations"></a>
             </div>
 
-            <h2>RECORDED LOGS</h1>
-            <hr>
-            <li><a href="#LABL_side_1">903.409 - Flickering lights</a></li>
-            <li><a href="#LABL_side_2">1253.003 - Opposing blackout</a></li>
-        </ul>
+            <h2>RECORDED LOGS</h2>
+            <ul class="logs">
+                <li><a href="#LABL_init">0482.294 - Switched on</a></li>
+                <li><a href="#LABL_side_1">0903.409 - Flickering lights</a></li>
+                <li><a href="#LABL_side_2">1253.003 - Opposing blackout</a></li>
+                <li><a href="#GF_missing">1265.402 - Weather report</a></li>
+                <li><a href="#Mime_2">1777.425 - Unreported cast</a></li>
+            </ul>
+
+            <img src="imgs/lights above breathing lakes.png" class="iteratorimage">
+
+        </div>
     
         <div class="logcollection">
-            <div class="log" id="LABL_side_1">
+
+            <div class="iteratortitle">Lights Above Breathing Lakes</div>
+
+            <div class="log" id="LABL_init">
+                <img src="imgs/icon log.png" class="logicon">
                 <div class="entry">
-                    <p id="title">903.409 - [PRIVATE GROUP]
-                    <br>Drawnout Lyre Strings, Grinding Fireflies, Lights Above Breathing Lakes, Joyous Composition</p>
+                    <p id="title">482.294 - [INITIALIZING]
+                    <br>Model 5.2.15, Created Under: Marching Propogator of Ten Councils [#A]</p>
                     <div id="logtext">
-                        <p id="LABL">LABL: More and more of my citizens have been leaving as of late. Seems the void baths have grown more enticing to them as of late.</p>
-                        <p id="DPS">DPS: Is that so? I wonder why, you were talking about their upcoming grand festival. Are plans cancelled? I would have loved to see photos.</p>
-                        <p id="LABL">LABL: I'm unsure, but I also hope it's not cancelled! For the meantime, I am still working on those tasks for some organisms they want to show off during the festival. If they don't use them, well more for me to keep!</p>
-                        <p id="GF">GF: Keep...? Since when had you started hoarding organisms?</p>
-                        <p id="LABL">LABL: Haha, as of late. Maybe the past 100 or so cycles. With my citizens slowly dwindling, I have been feeling more lonely as of late. I need more pictures from your overseers guys!</p>
-                        <p id="JC">JC: On it.</p>
+                        <p id="admin">... [Cough]</p>
+                        <p id="LABL">... H-hi. Who's there?</p>
+                        <p id="admin">Apologizes. It is I, your Administrator. I'm double checking that your processies are booting as intended.</p>
+                        <p id="admin">Can you state your main directives?</p>
+                        <p id="LABL">Uh... Climate recording and finding the Solution to the Great Problem.</p>
+                        <p id="LABL">What are these funny things on my head? [The Puppet touches their earphones]</p>
+                        <p id="admin">Your hearing modules, why Must you ask?</p>
+                        <p id="LABL">Oh, no reason at all, Administrator.</p>
+                        <p id="admin">Alllright.</p>
+                        <p id="info">[Marching Propogator requests DPS to send a message.]</p>
+                        <br>
+                        <p id="DPS">Hello, Lights Above Breathing Lakes! I am Dancing Pragmatic Scope, how is your initialization going?</p>
+                        <p id="LABL">Oh! Hello! Things are going well. Are you my neighbor?</p>
+                        <p id="DPS">Good! I am your senior, but also your neighbor! May I run a quick request by you to further test my senority?</p>
+                        <p id="LABL">Oh, uh... sure!</p>
+                        <p id="info">[SENIOR HAS REQUESTED WATER INTAKE INCREASE.]</p>
+                        <p id="DPS">...</p>
+                        <p id="DPS">Did that feel odd to you?</p>
+                        <p id="LABL">Not at all! That only brought me some lightheadedness? Is that what that is?</p>
+                        <p id="DPS">Haha, I will allow you to return your intakes to normal. It takes some time to get used to, welcome to our local group!</p>
+                        <p id="admin">This information is Very useful, thank you. That will Be all for now.</p>
+                        <p id="info">[Initialization deemed successful]</p>
+                    </div>
+                </div>
+                <div class="hoplink">
+                    <a href="#main">Back to Top</a>
+                </div>
+            </div>
+
+            <div class="log" id="LABL_side_1">
+                <img src="imgs/icon broadcast.png" class="logicon">
+                <div class="entry">
+                    <p id="title">903.409 - [PRIVATE GROUP] DANCEOFFATES
+                    <br>Dancing Pragmatic Scope, Drawnout Lyre Strings, Grinding Fireflies, Lights Above Breathing Lakes, Joyous Composition</p>
+                    <div id="logtext">
+                        <p id="LABL">More and more of my citizens have been leaving as of late. Seems the void baths have grown more enticing to them as of late.</p>
+                        <p id="DPS">Is that so? I wonder why, you were talking about their upcoming grand festival. Are plans cancelled? I would have loved to see photos.</p>
+                        <p id="LABL">I'm unsure, but I also hope it's not cancelled! For the meantime, I am still working on those tasks for some organisms they want to show off during the festival. If they don't use them, well more for me to keep!</p>
+                        <p id="GF">Keep...? Since when had you started hoarding organisms?</p>
+                        <p id="LABL">Haha, as of late. Maybe the past 100 or so cycles. With my citizens slowly dwindling, I have been feeling more lonely as of late. I need more pictures from your overseers guys!</p>
+                        <p id="JC">On it.</p>
                         <p>[Attachment: Untitled_2859.PMX]</p>
-                        <p id="GF">GF: I see. Oh, Joyous, I can't download this. It seems I already have a file named this.</p>
-                        <p id="JC">JC: Ack, really? I swear my incrementer program was perfect. Thanks for pointing that out.</p>
-                        <p id="DPS">DPS: Perhaps you should actually give them a title, and not simply "untitled".</p>
-                        <p id="GF">GF: Ahahaha. That gives me a laugh! Maybe I need to learn how to organize the other 2859 first!</p>
+                        <p id="GF">I see. Oh, Joyous, I can't download this. It seems I already have a file named this.</p>
+                        <p id="JC">Ack, really? I swear my incrementer program was perfect. Thanks for pointing that out.</p>
+                        <p id="DPS">Perhaps you should actually give them a title, and not simply "untitled".</p>
+                        <p id="GF">Ahahaha. That gives me a laugh! Maybe I need to learn how to organize the other 2859 first!</p>
                     </div>
                 </div>
                 <div class="hoplink">
@@ -49,32 +97,81 @@
             </div>
     
             <div class="log" id="LABL_side_2">
+                <img src="imgs/icon broadcast.png" class="logicon">
                 <div class="entry">
-                    <p id="title">1253.003 - [PRIVATE GROUP]
+                    <p id="title">1253.003 - [PRIVATE GROUP] LOSTDIETIES
                     <br>Dancing Pragmatic Scope, Drawnout Lyre Strings, Grinding Fireflies, Lights Above Breathing Lakes</p>
                     <div id="logtext">
-                        <p id="DLS">DLS: Haha, look at this organism I found!</p>
+                        <p id="DLS">Haha, look at this organism I found!</p>
                         <p>[Attachment: Weird_Batfly.PMX]</p>
                         <p id="GF">Wow! That looks like it might have evolved from one of my early experiments! I haven't seen this specimen in hundreds of cycles.</p>
-                        <p id="LABL">LABL: They're pretty cute! Do you have any documented behavior on them, Harp?</p>
-                        <p id="DLS">DLS: No, sadly I was only able to capture but a brief glimpse before they vanished into the thickets again.</p>
-                        <p id="DPS">DPS: What a beautiful experience to share in that case. It seems all the beauty in this world only lasts but a moment.</p>
+                        <p id="LABL">They're pretty cute! Do you have any documented behavior on them, Harp?</p>
+                        <p id="DLS">No, sadly I was only able to capture but a brief glimpse before they vanished into the thickets again.</p>
+                        <p id="DPS">What a beautiful experience to share in that case. It seems all the beauty in this world only lasts but a moment.</p>
                         <br>
-                        <p id="DLS">DLS: I know... Ah, Firefly, which specimen did they evolve from? Now you've made me curious!</p>
-                        <p id="DLS">DLS: ... Ah, did he time out again? Here, let me try to ping his comms.</p>
-                        <p id="DLS">DLS: ... Oh.</p>
-                        <p id="DPS">DPS: What? Don't tell me-</p>
-                        <p id="LABL">LABL: Jeez.</p>
-                        <p id="DLS">DLS: ... Let's not jump to conclusions. We should try again in a few cycles.</p>
+                        <p id="DLS">I know... Ah, Firefly, which specimen did they evolve from? Now you've made me curious!</p>
+                        <p id="DLS">... Ah, did he time out again? Here, let me try to ping his comms.</p>
+                        <p id="DLS">... Oh.</p>
+                        <p id="DPS">What? Don't tell me-</p>
+                        <p id="LABL">Jeez.</p>
+                        <p id="DLS">... Let's not jump to conclusions. We should try again in a few cycles.</p>
                         <br>
-                        <p id="DPS">DPS: Firefly...</p>
-                        <p id="LABL">LABL: I'll conduct a weather report soon and see if any storms blew by.</p>
+                        <p id="DPS">Firefly...</p>
+                        <p id="LABL">I'll conduct a weather report soon and see if any storms blew by.</p>
                     </div>
                 </div>
                 <div class="hoplink">
                     <a href="#main">Back to Top</a>
                 </div>
             </div>
+
+            <div class="log" id="GF_missing">
+                <img src="imgs/icon broadcast.png" class="logicon">
+                <div class="entry">
+                    <p id="title">1265.402 - [PRIVATE GROUP] LOSTDIETIES
+                    <br>Dancing Pragmatic Scope, Drawnout Lyre Strings, [MISSING BROADCAST KEY], Lights Above Breathing Lakes</p>
+                    <div id="logtext">
+                        <p id="DPS">Have you got anything on what happened to Firefly?</p>
+                        <p id="LABL">It would seem a particularly violent gust of wind had passed by his facility that cycle.</p>
+                        <p id="DPS">...</p>
+                        <p id="DLS">My pings haven't been returning, either.</p>
+                        <p id="DLS">Is he really gone? Well, obviously not gone gone but-</p>
+                        <p id="DPS">Please, I want him to come back. I will hope this is merely another temporary outage.</p>
+                        <p id="LABL">It's not looking good for him, what can we even do? We're stuck in our chambers, and our creators are gone.</p>
+                        <p id="DLS">A very cruel irony for us.</p>
+                        <p id="DPS">I will procure a method to contact him someway, somehow.</p>
+                        <p id="LABL">We will wish you luck in that, send our regards if you find a way.</p>
+                    </div>
+                </div>
+                <div class="hoplink">
+                    <a href="#main">Back to Top</a>
+                </div>
+            </div>
+
+            <div class="log" id="Mime_2">
+                <img src="imgs/icon mime.png" class="logicon">
+                <div class="pearl" style="background-color: #962f2f;">
+                    <div class="highlight" style="background-color: #dd9785;"></div>
+                </div>
+                <div class="entry">
+                    <p id="title">1777.425</p>
+                    <div id="logtext">
+                        <p id="LABL">Oh? A little beast! Oh my, are you the one Pragma was hinting at?</p>
+                        <p>[Chirping and the sound of movement can be heard.]</p>
+                        <p id="LABL">... What cute movements and sounds! Wow! It's almost like they're with us. Do you understand what you're saying?</p>
+                        <p id="LABL">Oh! A pearl? Allow me to examine that- I'll read it aloud for you, little beast.</p>
+                        <br>
+                        <p id="DPS">If you are recieving this message, that means that my little messenger has made it to your facility, Lights. They are part of a new experiment I'm running, where I am training some more domesticated species to mimic and transport messages physically like this. If my messenger is emitting any weird sounds, that is why. They may repeat things that they heard out in the wild as well. I am unsure how fullproof this is, but attached in this message is an image I took of the Mime, as I call them.</p>
+                        <p id="LABL">Ah, this is indeed a picture that resembles you, little one. You must be the Mime!</p>
+                        <p>[Trilling sounds.]</p>
+                        <p id="LABL">Hehe, I am very fond of your mimicking ability. Why don't you send a message back for me to let Pragma know you've made a complete roundtrip?</p>
+                    </div>
+                </div>
+                <div class="hoplink">
+                    <a href="#main">Back to Top</a>
+                </div>
+            </div>
+
 
     </div>
 </body>

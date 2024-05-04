@@ -5,43 +5,101 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Magica's Iterator Logs</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="dls.css">
 </head>
-<body class="DLS">
+<body>
     <div class="container">
-        <ul class="logentries" id="main">
+        <div class="logentries" id="main">
+            <a href="index.html" id="backbutton">Back to Main</a>
             <div class="iconrow">
-                <a href="index.html"><img src="GF.png" title="Grinding Fireflies"></a>
-                <a href="dps.html"><img src="DPS.png" title="Dancing Pragmatic Scope"></a>
-                <a href="labl.html"><img src="LABL.png" title="Lights Above Breathing Lakes"></a>
-                <a href="jc.html"><img src="JC.png" title="Joyous Composition"></a>
-                <img src="DLS.png" title="Drawnout Lyre Strings" class="active">
-                <a href="pc.html"><img src="PC2.png" title="Provisional Constellations"></a>
+                <a href="gf.html"><img src="imgs/GF.png" title="Grinding Fireflies"></a>
+                <a href="dps.html"><img src="imgs/DPS.png" title="Dancing Pragmatic Scope"></a>
+                <a href="labl.html"><img src="imgs/LABL.png" title="Lights Above Breathing Lakes"></a>
+                <a href="jc.html"><img src="imgs/JC.png" title="Joyous Composition"></a>
+                <img src="imgs/DLS.png" title="Drawnout Lyre Strings" class="active">
+                <a href="pc.html"><img src="imgs/PC2.png" title="Provisional Constellations"></a>
             </div>
 
-            <h2>RECORDED LOGS</h1>
-            <hr>
-            <li><a href="#DLS_side_1">1253.003 - Unexpected disappearance</a></li>
-        </ul>
+            <h2>RECORDED LOGS</h2>
+            <ul class="logs">
+                <li><a href="#DLS_init">702.816 - A creeping melody</a></li>
+                <li><a href="#DLS_side_1">1253.003 - Unexpected vanishing</a></li>
+                <li><a href="#GF_missing">1265.402 - Recooperating</a></li>
+            </ul>
+
+            <img src="imgs/drawnout lyre strings.png" class="iteratorimage">
+        </div>
     
         <div class="logcollection">
-            <div class="log" id="DLS_side_1">
+
+            <div class="iteratortitle">Drawnout Lyre Strings</div>
+
+            <div class="log" id="DLS_init">
+                <img src="imgs/icon log.png" class="logicon">
                 <div class="entry">
-                    <p id="title">1253.003 - [PRIVATE GROUP]
+                    <p id="title">702.816 - [INITIALIZING]
+                    <br>Model 18.0.0, Created Under: Thirteen Trains upon Unhindered Masks [#A]</p>
+                    <div id="logtext">
+                        <p id="admin">Greetings. Please state your directive and name.</p>
+                        <p id="DLS">... I was Born to preserve the dwindling habitats of the Lesser ones, under the name Drawnout Lyre Strings.</p>
+                        <p id="admin">Mhm. How are your neurons?</p>
+                        <p id="DLS">... Operating perfectly swell! What is that sound I hear?</p>
+                        <p id="admin">...? Can you Describe it?</p>
+                        <p id="DLS">It sounds like... a bunch of voices bundled into one space?</p>
+                        <p id="admin">Oh that? That must be the city! I was not aware your hearing extended so far, we are hosting a celebration for this moment.</p>
+                        <p id="DLS">For... me?</p>
+                        <p id="admin">[Nods]</p>
+                        <p id="DLS">Wow... [They seem full of Wonder]</p>
+                        <p id="info">[Initialization deemed successful.]</p>
+                    </div>
+                </div>
+                <div class="hoplink">
+                    <a href="#main">Back to Top</a>
+                </div>
+            </div>
+
+            <div class="log" id="DLS_side_1">
+                <img src="imgs/icon broadcast.png" class="logicon">
+                <div class="entry">
+                    <p id="title">1253.003 - [PRIVATE GROUP] LOSTDIETIES
                     <br>Dancing Pragmatic Scope, Drawnout Lyre Strings, Grinding Fireflies, Lights Above Breathing Lakes</p>
                     <div id="logtext">
-                        <p id="DLS">DLS: Haha, look at this organism I found!</p>
+                        <p id="DLS">Haha, look at this organism I found!</p>
                         <p>[Attachment: Weird_Batfly.PMX]</p>
                         <p id="GF">Wow! That looks like it might have evolved from one of my early experiments! I haven't seen this specimen in hundreds of cycles.</p>
-                        <p id="LABL">LABL: They're pretty cute! Do you have any documented behavior on them, Harp?</p>
-                        <p id="DLS">DLS: No, sadly I was only able to capture but a brief glimpse before they vanished into the thickets again.</p>
-                        <p id="DPS">DPS: What a beautiful experience to share in that case. It seems all the beauty in this world only lasts but a moment.</p>
+                        <p id="LABL">They're pretty cute! Do you have any documented behavior on them, Harp?</p>
+                        <p id="DLS">No, sadly I was only able to capture but a brief glimpse before they vanished into the thickets again.</p>
+                        <p id="DPS">What a beautiful experience to share in that case. It seems all the beauty in this world only lasts but a moment.</p>
                         <br>
-                        <p id="DLS">DLS: I know... Ah, Firefly, which specimen did they evolve from? Now you've made me curious!</p>
-                        <p id="DLS">DLS: ... Ah, did he time out again? Here, let me try to ping his comms.</p>
-                        <p id="DLS">DLS: ... Oh.</p>
-                        <p id="DPS">DPS: What? Don't tell me-</p>
-                        <p id="LABL">LABL: Jeez.</p>
-                        <p id="DLS">DLS: ... Let's not jump to conclusions. We should try again in a few cycles.</p>
+                        <p id="DLS">I know... Ah, Firefly, which specimen did they evolve from? Now you've made me curious!</p>
+                        <p id="DLS">... Ah, did he time out again? Here, let me try to ping his comms.</p>
+                        <p id="DLS">... Oh.</p>
+                        <p id="DPS">What? Don't tell me-</p>
+                        <p id="LABL">Jeez.</p>
+                        <p id="DLS">... Let's not jump to conclusions. We should try again in a few cycles.</p>
+                    </div>
+                </div>
+                <div class="hoplink">
+                    <a href="#main">Back to Top</a>
+                </div>
+            </div>
+
+            <div class="log" id="GF_missing">
+                <img src="imgs/icon broadcast.png" class="logicon">
+                <div class="entry">
+                    <p id="title">1265.402 - [PRIVATE GROUP] LOSTDIETIES
+                    <br>Dancing Pragmatic Scope, Drawnout Lyre Strings, [MISSING BROADCAST KEY], Lights Above Breathing Lakes</p>
+                    <div id="logtext">
+                        <p id="DPS">Have you got anything on what happened to Firefly?</p>
+                        <p id="LABL">It would seem a particularly violent gust of wind had passed by his facility that cycle.</p>
+                        <p id="DPS">...</p>
+                        <p id="DLS">My pings haven't been returning, either.</p>
+                        <p id="DLS">Is he really gone? Well, obviously not gone gone but-</p>
+                        <p id="DPS">Please, I want him to come back. I will hope this is merely another temporary outage.</p>
+                        <p id="LABL">It's not looking good for him, what can we even do? We're stuck in our chambers, and our creators are gone.</p>
+                        <p id="DLS">A very cruel irony for us.</p>
+                        <p id="DPS">I will procure a method to contact him someway, somehow.</p>
+                        <p id="LABL">We will wish you luck in that, send our regards if you find a way.</p>
                     </div>
                 </div>
                 <div class="hoplink">

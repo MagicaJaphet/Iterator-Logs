@@ -5,22 +5,55 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Magica's Iterator Logs</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="pc.css">
 </head>
-<body class="LABL">
+<body>
     <div class="container">
-        <ul class="logentries" id="main">
+        <div class="logentries" id="main">
+            <a href="index.html" id="backbutton">Back to Main</a>
             <div class="iconrow">
-                <a href="index.html"><img src="GF.png" title="Grinding Fireflies"></a>
-                <a href="dps.html"><img src="DPS.png" title="Dancing Pragmatic Scope"></a>
-                <img src="LABL.png" title="Lights Above Breathing Lakes" class="active">
-                <a href="jc.html"><img src="JC.png" title="Joyous Composition"></a>
-                <a href="dls.html"><img src="DLS.png" title="Drawnout Lyre Strings"></a>
-                <a href="pc.html"><img src="PC2.png" title="Provisional Constellations"></a>
+                <a href="gf.html"><img src="imgs/GF.png" title="Grinding Fireflies"></a>
+                <a href="dps.html"><img src="imgs/DPS.png" title="Dancing Pragmatic Scope"></a>
+                <a href="labl.html"><img src="imgs/LABL.png" title="Lights Above Breathing Lakes"></a>
+                <a href="jc.html"><img src="imgs/JC.png" title="Joyous Composition"></a>
+                <a href="dls.html"><img src="imgs/DLS.png" title="Drawnout Lyre Strings"></a>
+                <img src="imgs/PC2.png" title="Provisional Constellations" class="active">
             </div>
 
-            <h2>RECORDED LOGS</h1>
-            <hr>
-        </ul>
+            <h2>RECORDED LOGS</h2>
+            <ul class="logs">
+                <li><a href="#PC_init">1028.513 - Condensing</a></li>
+            </ul>
+
+            <img src="imgs/provistional constellations.png" class="iteratorimage">
+        </div>
+
+        <div class="logcollection">
+
+            <div class="iteratortitle">Provisional Constellations</div>
+            
+            <div class="log" id="PC_init">
+                <img src="imgs/icon log.png" class="logicon">
+                <div class="entry">
+                    <p id="title">1028.513 - [INITIALIZING]
+                    <br>Model 23.12.6, Created Under: Leaping Blocks of Six Saints [#A]</p>
+                    <div id="logtext">
+                        <p id="admin">Hello, Provisional Constellations. Please state your purpose and status.</p>
+                        <p id="PC">Hello, Administrator. I was Born to look into the stars and analyze potential celestial events which may aid in our Great Problem. Currently, my intake levels are low but will increase as I adjust.</p>
+                        <p id="admin">Great, right on point. Now, of all the stars we've uploaded, which is your favorite?</p>
+                        <p id="PC">Hmmm... Perhaps the Hexagonal Triangulation. It is much too soon to say for sure. I seem to have already indentified an uncharted White Dwarf. What do you want me to do with this?</p>
+                        <p id="admin">Well, we will not Stay for long. I suppose you are free to name it, along with Any more you'll be bound upon.</p>
+                        <p id="PC">I see. Thank you.</p>
+                        <p id="admin">I will depart for now, do Report if any disturbances arise.</p>
+                        <p id="info">[Initialization deemed successful]</p>
+                    </div>
+                </div>
+                <div class="hoplink">
+                    <a href="#main">Back to Top</a>
+                </div>
+            </div>
+
+        </div>
 
     </div>
 </body>

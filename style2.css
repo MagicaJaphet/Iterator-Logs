@@ -1,0 +1,188 @@
+@font-face {
+    font-family: Raindondo;
+    src: url("Raindondo.otf");
+}
+
+body {
+    background: url("imgs/dithering.png"), #b99469;
+    background-size: contain;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    transition: background-color 1s ease;
+    font-family: Consolas, monaco, monospace;
+    margin: 0;
+}
+
+.groupname {
+    color: #fff;
+    font-family: Raindondo;
+    font-size: 5vw;
+    text-align: center;
+    margin-bottom: 20px;
+    width: 100%;
+    text-shadow: black 0 0 5px,
+    black 0 0 8px,
+    black 0 0 20px,
+    black 0 0 50px;
+}
+.iteratorlineup {
+    width: 92%;
+    margin: auto;
+    display: flex;
+    background: linear-gradient(rgba(0,0,0,0) 10%, rgba(255, 255, 255, 0.3) 40%, rgba(255, 255, 255, 0.4) 80%, rgba(255, 255, 255, 0.2)80.6%, rgba(255, 255, 255, 0)84%);
+    border-radius: 20% 20% 0 0;
+}
+.iteratorimg {
+    width: 16.6%;
+    margin: auto;
+    display: inline-block;
+}
+
+.iteratorimg p {
+    color:#fff;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 5%;
+}
+.iteratorimg .pronouns {
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    text-shadow: 0 0 5px #000,
+    0 0 8px #000;
+}
+
+.desktop {
+    height: 800px;
+    z-index: 1;
+    filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.5));
+    transition: filter 0.4s, scale 0.2s;
+}
+.desktop:hover {
+    filter: drop-shadow(10px 0 7px rgba(0, 0, 0, 0.4));
+    scale: 1.02;
+}
+.senior {
+    position: absolute;
+    height: 35px;
+    animation: senioricon 4s;
+    animation-iteration-count: infinite;
+    z-index: 2;
+}
+.mobile {
+    display: none;
+}
+
+@keyframes senioricon {
+    0% {margin-top: 120px;}
+    20% {opacity: 1;}
+    25% {opacity: 0.5;}
+    30% {opacity: 1;}
+    50% {margin-top: 110px;}
+    100% {margin-top: 120px;}
+}
+
+.panel {
+    padding-bottom: 50px;
+}
+
+.blurb {
+    background: linear-gradient(rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.8) 100%);
+    margin: 100px 8%;
+    margin-top: 30px;
+    color: #fff;
+    padding: 2%;
+    border-radius: 25px;
+    border: 1px solid #fff;
+    outline: 5px solid rgba(0, 0, 0, 0.6);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.4);
+}
+.groupblurb {
+    background: linear-gradient(rgba(0, 0, 0, 0.6) 20%, rgba(0, 0, 0, 0.8) 100%);
+    margin: 0 10%;
+    color: #fff;
+    padding: 1% 4%;
+    border-radius: 25px;
+    border: 1px solid #fff;
+    outline: 5px solid rgba(0, 0, 0, 0.6);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.4);
+}
+
+::-moz-selection { /* Code for Firefox */
+    background: rgba(255, 255, 255, 0.3);
+}
+  
+::selection {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+
+li {
+    list-style: none;
+}
+
+a, a:hover, a:visited {
+    text-decoration: none;
+    color: yellow;
+}
+
+p {
+    padding: 20px 0;
+    margin: 0;
+}
+
+#bcf {
+    background: linear-gradient(rgba(0, 0, 0, 0) 0%, rgba(91, 226, 231, 0.5) 10%, rgba(88, 24, 172, 0.5) 100%);
+}
+
+#dps {
+    left: 24%;
+}
+
+.credits {
+    background-color: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 0 0 5px #000;
+    box-shadow: #fff 0 0 20px;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        background-size: cover;
+    }
+    
+    .groupname {
+        font-size: 14vw;
+    }
+    
+    .senior {
+        display: none;
+    }
+
+    .iteratorlineup {
+        display: flex;
+        flex-direction: column;
+        background: rgba(255, 255, 255, 0.3);
+        border-radius: 50px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+        padding-bottom: 10px;
+    }
+
+    .iteratorimg{
+        width: 100%;
+        margin-top: 50px;
+    }
+    .desktop {
+        display: none;
+    }
+    .mobile {
+        display: inline-block;
+        width: 100%;
+    }
+
+}
