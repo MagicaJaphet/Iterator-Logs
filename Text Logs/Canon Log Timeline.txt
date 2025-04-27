@@ -423,7 +423,7 @@ GRINDING FIREFLIES, [+] %TPMS%
 >(GF) I-I'm s sorry... I'm sorry... I'm sorry I'm sorry-
 >[The log abruptly ends with the sound of a pang.]
 
-{LABL}
+{LABL} #962f2f #dd9785
 1777.425
 
 (LABL) Oh? A little beast! Oh my, are you the one Pragma was hinting at?
@@ -450,7 +450,7 @@ GRINDING FIREFLIES, [+] %TPMS%
 (DPS) If it does... Ah. Just maybe.
 >(DPS) Firefly. I'm still listening.
 
-{DPS}
+{DPS} #962f2f #dd9785
 1777.583
 
 [Scratching of claws, something making its way into the chamber]
