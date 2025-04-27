@@ -1,0 +1,14 @@
+GF {GF} [Grinding Fireflies] #EE7043
+DPS {DPS} [Dancing Pragmatic Scope] #FFC6F0
+DLS {DLS} [Drawnout Lyre Strings] #00CAD2
+LABL {LABL} [Lights Above Breathing Lakes] #849DE8
+JC {JC} [Joyous Composition] #C9C74A
+PC {PC} [Provisional Constellations] #7d96bb
+LMSB {LMSB} [Listing Marathons of Seven Living Blocks] #ffdb65
+MPTC {MPTC} [Marching Propagator of Ten Councils] #7da8cc
+TLSP {TLSP} [Thirteen Lamps beside Sunny Petals] #aece91
+HSDS {HSDS} [Heap of Suns, Drooping Seedlings] #b45a30
+TTUM {TTUM} [Thirteen Trains upon Unhindered Masks] #113097
+LBSS {LBSS} [Leaping Birds of Six Saints] #323847
+TPMS {[+]} [The Product of My Successes] #d1c3cd
+A {[#A]} [Administrator] #cacaca

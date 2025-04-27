@@ -1,0 +1,63 @@
+/* GUIDE FOR DIV ELEMENTS:
+logs > parent for all logs
+singlelog > a singular log container
+*/
+@font-face {
+    font-family: Raindondo;
+    src: url("Raindondo.otf");
+}
+
+body {
+    font-family: Consolas, monaco, monospace;
+    font-size: 0.35cm;
+}
+
+#logs {
+    width: 50%;
+}
+
+@media only screen and (max-width: 900px) {
+#logs {
+    width: 95%;
+    margin: auto;
+}
+}
+
+.singlelog {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px 20px;
+    margin: 20px 0;
+    border-radius: 30px;
+}
+
+.singlelog .title {
+    text-align: left;
+    padding: 20px;
+}
+
+.singlelog .line {
+    padding: 0 70px;
+}
+
+.textbreak {
+    margin-top: 50px;
+}
+
+.pearl {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-top: -15px;
+    margin-left: -25px;
+    border-radius: 50%;
+}
+
+.highlight {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin: 5px 5px;
+    box-shadow: rgba(0, 0, 0, 0.3) 10px 10px 10px;
+}

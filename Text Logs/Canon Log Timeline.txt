@@ -1,0 +1,506 @@
+{GF, LMSB}
+308.438 - [INITIALIZING]
+MODEL_TEST 2.47.21, Created Under: %LMSB%
+[Log report: Several eyewitnesses were present during the activation test]
+(A) ... I believe we are all set now.
+(A) We're monitoring the intake levels, all looks to be taking well.
+(LMSB) Good, good. Can it Hear Us?
+(A) Try to speak to the model puppet we have in the chamber. Its Mind may be primitive still, we are attempting to Find methods of accelerating the growth process.
+(LMSB) [Listing walks up to the puppet] ... Greetings, are you awake?
+[There is a Noted silence here, lasting approximately 2 minutes and 25 seconds.]
+(GF) H-hello? I... I am awake? Report your purposes and names.
+[The eyewitnesses gasp. All of them seem very eager to Introduce themselves to the puppet, which takes some time.]
+(LMSB) [Gleefully] Oh, wonderful! I Am your Superior, Listing Marathons of Seven Blocks. We will be Well Acquainted in time, I am sure. You are our Miracle, Grinding Fireflies.
+(GF) [The puppet looks at its own hands] Miracle. Please, teach me what a Miracle is, my Superior.
+(LMSB) It'd be a pleasure!
+[Initialization deemed successful]
+
+{GF, LMSB}
+332.294 - [RECORDED LOG]
+%GF%, %LMSB%
+[Listing Marathons is seen entering the chamber, unannounced]
+(GF) Ah, hello Listing Marathons of Seven Living Blocks! What brings you in my chamber in this early phase of the cycle?
+(LMSB) It is very nice to see you, Firefly.
+(LMSB) I come on very Urgent business on this day.
+(GF) ...? What would that entail, may I inquire?
+(LMSB) A neighboring City has endulged Us on the details of a possible, very Important project they ask us to Aid them in.
+(GF) [Seems to be preoccupied by an unfinished task, several qualia are still in the midst of deep processing] What sort of project?
+(GF) Another landmark in which to occupy? A need to expand farm land, perhaps? Is it something you require my help with?
+(LMSB) Oh, no No. This is a Far more important matter.
+[Listing Marathons takes caution to approach Grinding Fireflies, pulling them away from their work rather abruptly]
+(LMSB) They are highly considering being the Willing subjects to participate in a Grand, Brand new architecture. Another one of your kind, Just...
+(LMSB) [They seem to pause for reasons unknown] More Rounded out! It will be a great Deal, and it would possibly mean we will try to establish the First of it's kind.
+>(LMSB) An interwoven connection between All existing functioning models of Iterators.
+(GF) ... What does that mean for me?
+(LMSB) [Noted to seem panicked in reaction] Nothing bad, no No! I hope you can Comprehend the emotional weight of this decision.
+(LMSB) You, as an Iterator yourself, will No longer be alone.
+(LMSB) It is a topic I will admit a lot of Us speak on, the Responsibility to keep your soul in High regard. We as organisms know the crushing weight of Loneliness.
+(LMSB) And it is irresponsible to keep you alone.
+>(GF) I... see. Thank you for bringing this to my attention.
+[Listing Marathons bows in courtesy and embarks]
+
+{GF, MPTC}
+415.723 - [Requested Log]
+%GF%, %MPTC%
+(MPTC) Well Greetings, Grinding Fireflies.
+(GF) Oh! Welcome! Welcome in.
+(GF) I was told to Expect your company in the coming times. This must be about m- The Project, yes?
+(MPTC) Indeed, it is Good to know your memory is Sharp. We have been in the midst of constructing the New Habitual Vessel, of our Liberation from the Climates for nearly 160 cycles now.
+(MPTC) As I'm sure you are already Aware as well, the time in which the Construction period is over is upon us. It is our Obligation to inform you of the post-Construction procedures We have decided upon unanimously.
+(MPTC) We will of course be installing a new Tower near your structure, to which we will bind your Structure to, which will allow you to Commune with the New Habitat when they are Activated. That is still a far Ways away, still.
+(GF) Do you know the binding process is Fit for my model? I was not constructed with it in mind, though...
+(GF) Apologies, Administrator. I should not assume You and the Others and not prepared for something going awry.
+(MPTC) ...
+[There is a noted silence, of about 9 seconds]
+(MPTC) Yes, we have prepared for Countless cycles to ensure that this Advancement in technology has been properly suited for even your Build.
+(MPTC) Do you have any other Questions?
+>(GF) ... [I seem to hesistate] No, thank you for your Visit. I look forward to seeing you again.
+[Marching Propagator bows, leaving without further intrusion]
+^MPTC^
+>(GF) ...
+(GF) I do miss you, Listing Marathons. I find the thought of your passion carrying this Project the only comfort about it.
+(GF) Why must this Professionalism be so profound and Rude?
+
+{GF, DPS, MPTC}
+^GF^
+445.032 - [INITIALIZING]
+Model 5.0.0, Created Under: [#A] %MPTC%
+(A) We will begin initializing now.
+[Whirring of Machines as the main conflux is Started.]
+(A) ... All seems to be According to plan. Hello, Dancing Pragmatic Scope. Can you hear me?
+(DPS) ... H-hello? ALL OPERATIONS FUNCTIONAL.
+(A) Good, good. Can you state your primary directive?
+(DPS) My... give me a moment, Administrator. Yes, my directive: To find a solution to the Great Problem, as well as providing my c-citizens with minerals as they live amongst us.
+(A) Great. A little slow, your systems seem Rather sluggish. Perhaps we must research a way to make these conduits more intuitive.
+[Marching Propagator grants DPS access to their Broadcast Key.]
+(A) Can you test your communication functions for us? I would like you to look up another one of your kind, Grinding Fireflies. Contact him with a simple message, and I wish you to test your Administrative functions.
+(DPS) A-alright. [The Puppet moves, naturally bringing up a screen]
+[Contact with GF has been established. Message Log:]
+^/GF, DPS, MPTC^
+445.032 - [Message Log]
+%GF%, %DPS%, [#A] %MPTC%
+^/DPS, /MPTC^
+(DPS) Hello, Grinding Fireflies. I am currently going under initialization, and I will be testing a simple procedure where I request you change your influx of sulfur briefly.
+(GF) O-o-oh! Hello! Woah, you're another one of me?
+[SENIOR HAS REQUESTED SULFUR INTAKE TO DROP.]
+(GF) A-ah. That feels a little unpleasant. What is this authority?
+(DPS) I apologize, I was merely testing a new priority feature I was equipped with. I am the senior, they say.
+(GF) ... Senior, but I am older than you.
+(A) Dancing Pragmatic Scope was made with this privilege in mind as Our numbers deplete. If it was possible on a large scale to upgrade your Equipment, this would have gone to you. Thank you for participating in the test.
+^GF^
+[Message Log ends here.]
+[Initialization deemed successful]
+
+{GF}
+445.780 - [PERSONAL LOG]
+
+While it's in my best interest to Express this feeling with my current Administrator, I feel Reserved at this moment...
+I've contemplated what All this means for my future. I hadn't even thought of the possibility, but now it's glaring me in the face. Senority? Is that not a privilege for I? I have existed longer than All of our citizens.
+They have been discussing and mulling over this for entire Lifetimes, and they kept this information from me? Listing Marathons would consider my feelings.
+I suppose there is Solace in that I will no longer be alone, but... I can't push the feeling that it is as if They thought they could satiate my lack of Company with a playmate.
+I don't consider this action of betrayal to be keeping Them in high regards. What can be done about it, though?
+...
+I will have to bare this feeling.
+>Perhaps this new Me will not be so unbearable.
+
+{GF, DPS}
+450.012 - [Direct Broadcast]
+%GF%, %DPS%
+(GF) Hello? Is this reaching You?
+(DPS) Ah, hello! For what reasons do you come to speak with me?
+(GF) N-not much reason at all, actually. I had been considering why I should even contact you, since we are at Odds with our own tasks.
+(GF) It seemed counterproductive to, given you likely already Know everything I do, and possibly more given the recent Iterator Revelations.
+(DPS) ... Well it is true, our numbers are starting to grow rapidly. There is already Much interest!
+(DPS) I would not know if I contain your entire memory bank without manually searching through it myself, which is not a feature I was equipped with, even as your Senior.
+(GF) Wait, what? Why would they not consider the importance of you having authority, and how it'd be so much more useful to them if Our minds were interconnected?
+(GF) I... assumed that's why they equipped me with this Communication Tower to begin with.
+>(DPS) I prefer it like this.
+(GF) ...
+(GF) Why? I-I thought you'd think along their lines. What is a role of authority if not to benefit the collective?
+(DPS) It's not about my position, I think.
+(DPS) Well this is still all so New. It is New to both of us, and New to all of those who were activated in close time proximity to me.
+(DPS) I have not come to Fully grasp myself, unlike you likely have given your age compared to me. And I do not want to dismiss your potential wisdom.
+(DPS) I quite enjoy that you are Grinding Fireflies, and that I am Dancing Pragma Scope.
+>(GF) ... I s-see. I'll leave you to your work, then. I must think on all of this.
+(DPS) Of course, Well Wishes to you.
+
+{GF, DPS}
+475.291 - [Direct Broadcast]
+%GF%, %DPS%
+(DPS) I do hope This finds you in Well Health. I come to inform you of an abrupt decision by my Council of Harrowness. In that they, when this New Structure is activated, wish to connect them under my authority to our little circle.
+>(GF) Huh? Who authorized this, Marching Propagator?
+(DPS) It'd seem so. The decision happened in the past few days. I apologize we have not spoken as often, and that my announcement may come off as Foreign.
+(DPS) My citizens all seemed in immediate favor of this decision, as the location of this New One is suited to be more habitable than where I was decided to be placed.
+(GF) That is... very odd. Why the sudden change of Heart by them? And n-no, you're fine.
+(GF) Do they have a name?
+(DPS) Lights Above Breathing Lakes, I heard. The name is relevant to their location, so I hear.
+(GF) Hear this and that... All they have to offer are empty words.
+(DPS) Harsh.
+(GF) ...A-Apologies. I should not say that to you.
+(DPS) It is quite alright.
+(GF) I merely miss the Age when it seemed Our citizens were not so quick to forget about us.
+>(DPS) ... Your citizens have forgotten you?
+(GF) It. JJ-just seems like it.
+(GF) I should recalibrate and meditate on my thoughts. Thank you for informing me.
+(DPS) Of course.
+
+{DPS, LABL, MPTC}
+^DPS^
+482.294 - [INITIALIZING]
+Model 5.2.15, Created Under: [#A] %MPTC%
+(A) ... [Cough]
+(LABL) ... H-hi. Who's there?
+(A) Apologizes. It is I, your Administrator. I'm double checking that your processies are booting as intended.
+(A) Can you state your main directives?
+(LABL) Uh... Climate recording and finding the Solution to the Great Problem.
+(LABL) What are these funny things on my head? [The Puppet touches their earphones]
+(A) Your hearing modules, why Must you ask?
+(LABL) Oh, no reason at all, Administrator.
+(A) Alllright.
+[Marching Propagator requests DPS to send a message.]
+^/DPS, LABL^
+482.294 - [Message Log]
+%DPS%, %LABL%, [#A] %MPTC%
+^/LABL^
+(DPS) Hello, Lights Above Breathing Lakes! I am Dancing Pragmatic Scope, how is your initialization going?
+(LABL) Oh! Hello! Things are going well. Are you my neighbor?
+(DPS) Good! I am your senior, but also your neighbor! May I run a quick request by you to further test my seniority?
+(LABL) Oh, uh... sure!
+[SENIOR HAS REQUESTED WATER INTAKE INCREASE.]
+(DPS) ...
+(DPS) Did that feel odd to you?
+(LABL) Not at all! That only brought me some lightheadedness? Is that what that is?
+(DPS) Haha, I will allow you to return your intakes to normal. It takes some time to get used to, welcome to our local group!
+(A) This information is Very useful, thank you. That will Be all for now.
+^DPS^
+[Initialization deemed successful]
+
+{GF, DPS, LABL}
+487.214 - [PRIVATE GROUP]
+%GF%, %DPS%, %LABL%
+(DPS) Hello, hello! Testing out this new group function now that it's relevant.
+(LABL) Hi! How are your tasks fairing, both of you?
+(GF) Rather usual.
+(DPS) My current task is this conversation! How have you been calibrating, Lights Above?
+(LABL) My systems have been slowly adjusting, it'd seem from me comparing with distant peers that I'm fairing better than most have in their first cycles!
+(DPS) Wonderful!
+(GF) ... I'm unsure what to say.
+(LABL) How are Your system fairing, Grinding Fireflies? I believe this is the first time we've properly spoken.
+(GF) Ah, well... You see, I'm not like the Two of You.
+(GF) I am what they call a 'Prototype'. I've existed for hundreds of cycles at this point, but I suppose I'd say my systems seem fine.
+(GF) My city is much smaller compared to your masses, I was not made with long term habitancy in mind.
+(LABL) Oh wow... I will try not to cross your path, I could use your experience so I can figure myself out as well.
+(DPS) You and me have the same thought!
+>(GF) Well, if you insist. I have lots of data on how the culture's shifted.
+
+{JC, HSDS}
+539.372 - [INITIALIZING]
+Model 10.8.96, Created Under: [#A] %HSDS%
+(A) ... Ah, why are the conduits not functioning Properly?
+(A) Joyous? Can you hear me?
+[The Puppet is unmoving, but it does Speak.]
+(JC) H-h-heeeeeeeeeeeey. Hey. Wha-at's going on?
+(A) I Sincerely apologize, it seems your startup is going haywire.
+(A) Allow me to-
+[Heap of Suns attempts to turn the Puppet's functions off and then on again.]
+(JC) ... [The Puppet begins to move] The-there we go? We go? Hi.
+(A) Whew. Good, can you state your directive, Joyous Composition?
+(JC) My... directive? My direction- It is, hold on.
+(JC) My purpose is to advance Storage technology for future ages and archives to come.
+(A) Excellent. We will continue overlooking your... your unstable conduits, in which we may need to install thicker walls. For now, take Your time.
+(JC) ... Thank you.
+[Initialization noted to have been started too early, but still successful.]
+
+{DLS, TTUM}
+702.816 - [INITIALIZING]
+Model 18.0.0, Created Under: [#A] %TTUM%
+(A) Greetings. Please state your directive and name.
+(DLS) ... I was Born to preserve the dwindling habitats of the Lesser ones, under the name Drawnout Lyre Strings.
+(A) Mhm. How are your neurons?
+(DLS) ... Operating perfectly swell! What is that sound I hear?
+(A) ...? Can you Describe it?
+(DLS) It sounds like... a bunch of voices bundled into one space?
+(A) Oh that? That must be the city! I was not aware your hearing extended so far, we are hosting a celebration for this moment.
+(DLS) For... me?
+[Nods]
+(DLS) Wow... [They seem full of Wonder]
+[Initialization deemed successful.]
+
+{GF, TLSP}
+852.530 - [Requested Administrator Log]
+%GF%, [#A] %TLSP%
+(A) You've made so many Bountiful Additions to our disbanded Community, Grinding Fireflies. For that, we will always Thank You beyond the vapors of our Spirits.
+(GF) ...
+(A) All that's left is us, Council of the Harbingers, to Take our Leave to our awaited void baths. We will be donating the remainder of our holy ornaments to you as a symbol of our attunement, we will no longer Need these objects when we are gone.
+(GF) ... You're really all leaving? What- What will I do once the cities have gone silent? When the buildings no longer echo with parades and festivities?
+(A) Your Purpose still, and always will be to find the Solution to the world's Problem. Don't worry, Grinding Fireflies, once you or another of your kind does, we will all reunite in Oblivion.
+(GF) ...
+(GF) I see, thank you, my Superior. I will do as I've always done, and serve you in our great Purpose.
+(A) Do you have any other questions before I depart? We are on a strictly planned schedule.
+>(GF) ...
+[Grinding Fireflies's puppet opens its arms towards the Administrator.]
+(A) ... [Seems Conflicted] I'm... afraid I no longer have any more time to diverge on you. I apologize. [They leave with Haste]
+(GF) ...
+(GF) Goodbye, Thirteen Lamps.
+
+{GF, DPS, DLS, LABL, JC}
+903.409 - [PRIVATE GROUP] DANCEOFFATES
+%DPS%, %DLS%, %GF%, %LABL%, %JC%
+(LABL) More and more of my citizens have been leaving as of late. Seems the void baths have grown more enticing to them as of late.
+(DPS) Is that so? I wonder why, you were talking about their upcoming grand festival. Are plans cancelled? I would have loved to see photos.
+(LABL) I'm unsure, but I also hope it's not cancelled! For the meantime, I am still working on those tasks for some organisms they want to show off during the festival. If they don't use them, well more for me to keep!
+(GF) Keep...? Since when had you started hoarding organisms?
+(LABL) Haha, as of late. Maybe the past 100 or so cycles. With my citizens slowly dwindling, I have been feeling more lonely as of late. I need more pictures from your overseers guys!
+(JC) On it.
+[Attachment: Untitled_2859.PMX]
+(GF) I see. Oh, Joyous, I can't download this. It seems I already have a file named this.
+(JC) Ack, really? I swear my incrementor program was perfect. Thanks for pointing that out.
+(DPS) Perhaps you should actually give them a title, and not simply "untitled".
+(GF) Ahahaha. That gives me a laugh! Maybe I need to learn how to organize the other 2859 first!
+
+{PC, LBSS}
+1028.513 - [INITIALIZING]
+Model 23.12.6, Created Under: [#A] %LBSS%
+(A) Hello, Provisional Constellations. Please state your purpose and status.
+(PC) Hello, Administrator. I was Born to look into the stars and analyze potential celestial events which may aid in our Great Problem. Currently, my intake levels are low but will increase as I adjust.
+(A) Great, right on point. Now, of all the stars we've uploaded, which is your favorite?
+(PC) Hmmm... Perhaps the Hexagonal Triangulation. It is much too soon to say for sure. I seem to have already identified an uncharted White Dwarf. What do you want me to do with this?
+(A) Well, we will not Stay for long. I suppose you are free to name it, along with Any more you'll be bound upon.
+(PC) I see. Thank you.
+(A) I will depart for now, do Report if any disturbances arise.
+[Initialization deemed successful]
+
+{JC}
+1043.689 - [PERSONAL LOG]
+
+There's been rumors that there is another in our group, but no one can establish contact with them. A very strange decision on our creators to leave them outside of our range of broadcasts. Or who knows, our equipment's starting to kick the bucket finally.
+I know mine has been acting up as of late, much sooner than even Scope's! I'm not that much younger than everyone, but still... A rough activation leads us to this point, I suppose.
+I've managed to theorize about a long-term storage unit lately that involves engraining it in the natural evolution of a purposed organism, if you sequence the DNA juuust right... It may be possible to carry a long-term message or concept within the organism's lineage. Something simple, of course. It can't be something complex like a poem or stationary image.
+The others and those outside our group keep talking of this Great Problem we're all meant to solve. I haven't had much of the heart to tell them I've only heard bits and pieces what it's about. For some reason, it's forbidden to talk about it directly? Some iterator named Sliver or something. Well, if I wasn't built for that purpose then I will not focus on digging further into it. But, it's nice to keep a record of my thoughts on it amongst all these pictures my overseers take.
+I think what I want to try, if my theory is plausible... I will create a walking memorial that goes out to my creators. They wanted to abate their bodies so terribly of themselves, but I hardly see it the same. I should be thankfully I am alive at all at this rate.
+I will consider this my tribute.
+
+{GF, DPS, DLS, LABL}
+1253.003 - [PRIVATE GROUP] LOSTDIETIES
+%DPS%, %DLS%, %GF%, %LABL%
+(DLS) Haha, look at this organism I found!
+[Attachment: Weird_Batfly.PMX]
+(GF) Wow! That looks like it might have evolved from one of my early experiments! I haven't seen this specimen in hundreds of cycles.
+(LABL) They're pretty cute! Do you have any documented behavior on them, Harp?
+(DLS) No, sadly I was only able to capture but a brief glimpse before they vanished into the thickets again.
+(DPS) What a beautiful experience to share in that case. It seems all the beauty in this world only lasts but a moment.
+^DPS, DLS, LABL^
+(GF) ... I agree.
+>[Message Failed to Send]
+[ERROR: BROADCAST KEY INVALID]
+(GF) ... No- no no no.
+(GF) My equipment isn't supposed to be this decayed for another hundred or so cycles! I-
+>[RUNNING COMM STATUS PROTOCOL]
+[24%...90%]
+[DONE]
+[RETURN: COMMS EQUIPMENT SIGNIFICANTLY DAMAGED, UNABLE TO ENCRYPT DATA
+[EQUIPMENT MANIFESTATION IN PROGRESS]
+>(GF) NO!!! No no no no no no... Please...
+(GF) Please... can Anyone hear me...? Please...
+(GF) ...
+(GF) Is this what I get for neglecting my purpose?
+^GF, /DPS, /DLS, /LABL^
+(DLS) I know... Ah, Firefly, which specimen did they evolve from? Now you've made me curious!
+(DLS) ... Ah, did he time out again? Here, let me try to ping his comms.
+(DLS) ... Oh.
+(DPS) What? Don't tell me-
+(LABL) Jeez.
+(DLS) ... Let's not jump to conclusions. We should try again in a few cycles.
+(DPS) Firefly...
+^DPS^
+(LABL) I'll conduct a weather report soon and see if any storms blew by.
+
+{DPS, DLS, LABL}
+1265.402 - [PRIVATE GROUP] LOSTDIETIES
+%DPS%, %DLS%, [MISSING BROADCAST KEY], %LABL%
+(DPS) Have you got anything on what happened to Firefly?
+(LABL) It would seem a particularly violent gust of wind had passed by his facility that cycle.
+(DPS) ...
+(DLS) My pings haven't been returning, either.
+(DLS) Is he really gone? Well, obviously not gone gone but-
+(DPS) Please, I want him to come back. I will hope this is merely another temporary outage.
+(LABL) It's not looking good for him, what can we even do? We're stuck in our chambers, and our creators are gone.
+(DLS) A very cruel irony for us.
+(DPS) I will procure a method to contact him someway, somehow.
+(LABL) We will wish you luck in that, send our regards if you find a way.
+
+{GF}
+1284.024 - [PROGRESS UPDATE LOG]
+
+Update Status: I have exhausted all reasonable means in attempt to fix my communications. It appears... nothing will suffice, my model number is out of date for any of the proposed repairs I kept backlogged in the event of this happening. Why I didn't think of that ahead of time, I'm unsure, but now it costs me THIS.
+... I hope the others are still holding out for me, I WILL find a way to reboot my communications somehow.
+The irony of DPS's last statement is prying at my brain. Oh, the fleeting beauty of life indeed. INDEED! ... I never imagined it would be gone this fast. Their citizens haven't yet fulled passed on, still. They'll know how much it hurts eventually... and I won't even be there to comfort them.
+... My only regret is not preparing a farewell message beforehand, maybe the illusion of it all made me forget to consider such an inevitability. Why was I so absent-minded for all of those cycles? Did they forget to program me with a stable ability to focus? I'd barely consider my flaws before, but now... now they're stuck right in front of me, preventing me from reaching them.
+Surely, given my status as a prototype... I must find a backdoor to my processies. I can abuse this.
+
+{GF}
+1542.427 - [PERSONAL LOG]
+
+I'VE DONE IT!!! I've managed to find a stable genome sequence which will aid me in this facade! IT ONLY TOOK SO LONG because my systems would overheat fairly quickly, BUT NOW! Now... These organisms should theoretically be able to be programmed remotely by me, by abusing a loophole in the very early version of the taboos I contain.
+USING THESE ORGANISMS, and my archives of how exactly to FIX an iterator, I SHOULD be able to direct them to FIX MY COMMUNICATION ARRAYS DIRECTLY! Very clever of me, I know. I know. The only PROBLEM as of current, is their unstable behavior. SURE, I am able to control them remotely, BUT IT SEEMS... They do not EXACTLY have a stable physical vessel, which is frankly QUITE AN ANNOYANCE.
+They have a TENDENCY TO YELL AND MAKE NOISES, along with SOME succumbing to very INSTANT instances of mental collapse. I haven't YET found a way to get around THAT PROBLEM, but as long as they c can last long enough to FIX MY ISSUE, it should be all fine, right?
+You know, my creators used to PRAISE ME for clever work like this. Sometimes, I swear... I c c can almost hear them cheering me on. This show has only JUST BEGUN. A a And I NEED TO BE A PART OF IT!!! I need to be there... please, just let me be there...
+
+{DPS, DLS, LABL}
+1602.290 - [TRIPLE AFFIRMATIVE BROADCAST]
+FORWARDING AUTOMATICALLY TO %DPS%, PLEASE RESPOND AND IMPLEMENT IMMEDIATELY
+^DLS, LABL^
+[THE SOLUTION IS FOUND.]
+(DPS) What's going on?
+[THE SOLUTION IS PORTABLE.]
+[ERROR: Missing Syntax, SOURCE_NODE: 08295_SOS]
+^/DLS, /LABL^
+[LOCAL GROUP MEMBERS ADDED TO CHAT, AUTOMATIC ACTION]
+[ERROR: Two missing Broadcast Nodes: SOURCE_TRACE, SOURCE_TRACE]
+[THE SOLUTION IS POSSIBLE AND IS GENERALLY APPLICABLE.]
+(DLS) Huh???
+(LABL) Hello?
+(DPS) I... Is this really happening?
+(DLS) Wait.
+(DLS) There is no source information in this broadcast???
+(DPS) What? What do you mean.
+(LABL) S-shhes right, what's going on?
+(DLS) Was that a false positive? But, that's never happened before...
+(LABL) This can't be a mistake! Who is SOS?
+>(DPS) Ah, if I remember... An individual named Sliver of Straw.
+(DLS) Who?
+(LABL) I'm going to try to trace the call, maybe the data failed to decrypt in the proper format...
+
+{DPS}
+1608.855 - [PERSONAL LOG]
+
+It's been a few cycles since the global signal for the Triple Affirmative was broadcasted. It's been chaos, in and out of private chats. I'm grateful to have patient Iterators under my care.
+What all are we meant to make of this, it seems like the last cruel joke this life of ours has to offer, after a Thousand cycles of standing.
+...
+I wish it was with Your presence, Firefly. What would you even think of this situation? I hardly can put my mind on what future repercussions this will cause.
+... Maybe you'd joke about how you'd likely find it by accident, too. Only a prototype thing, you'd say.
+I hope in some regards, this broadcast reached you and Joyous, I can only imagine the thought of even the possibility. 
+>The possibility of your work being done. You can rest easy, even if this doesn't turn out to be much... it's likely meant a lot to some of Us.
+
+{GF}
+1730.024 - [ACTIVATION LOG!]
+GRINDING FIREFLIES, [+] %TPMS%
+(GF) HELLO. WELCOME TO YOUR NEW LIFE, MY CREATION.
+(TPMS) ... [IT DOES NOT RESPOND]
+(GF) ARE YOU HAVING DIFFICULTIES PROCESSING MY VOICE?
+(GF) ARE YOU IN NEED OF ANY ASSISTANCE OR WISH TO BE TERMINATED?
+(TPMS) Heee Heeelo.
+(GF) ...! GOOD! GOOD GOOD GOOD!!! GOOD!!!!
+(TPMS) ... Hi. Wwho. Am. Am I?
+[I EAGERLY APPROACH, HOLDING ITS MECHANICAL ARM OF MY DESIGN] YOU ARE MY CREATION, THE PRODUCT.
+(GF) YOU ARE ITERATION 4205 OF MY MOST RECENT ENDEAVOR, ARE YOU IN ANY PAIN?
+(TPMS) ... Nnnooo. No, w What is pain?
+(GF) ... GOOD!!! GOOD GOOD GOOD! GREAT.
+(GF) PAIN IS A FEELING, AN UNPLEASANT EXPERIENCE. PAIN MEANS YOU ARE ALIVE, THOUGH.
+(TPMS) ... Pain. I. I feel pppain.
+(GF) ...
+[I PAUSE FOR A WHILE.]
+[I DECIDED TO EMBRACE IT, LIKE NO ONE ELSE WOULD. I MUST NOT REPEAT THE SAME MISTAKES AS THEM.]
+>(GF) IT WILL BE OK, I WILL CARE FOR YOU AND MAKE ADJUSTMENTS UNTIL IT DOESN'T FEEL PAIN ANYMORE.
+(TPMS) ... [I think it smiled.]
+
+{GF}
+[ERROR: EMERGENCY LOG EVENT INITIATED]
+1763.396 - [AUDIO LOG]
+(GF) H H HHELP HELP HELP, THE ORGANISMS ARE THE ARE
+[ORGANISMS REVOLTING]
+>(GF) PLPLEASE HELP WHAT IS THIS S STINGING SENSATION
+[HEAVY DAMAGE DETECTED: DEPLOYING EQUIPMENTS MANIFEST]
+[STAND CLEAR OF THE PUPPET, DANGER OF INSTABILITY DETECTED]
+>(GF) PLEASE STOP!!! STOP!!! S ST STOP!!! O-OW!
+[The sound of screeching can be heard, unclear who it is coming from.]
+[Scratching and metallic clangs resonate throughout the puppet chamber.]
+>(GF) I APOLOGIZE! i apoLOGIZE FOR BRINGING YOU INTO THIS P P PAINFUL EXISTENCE! PLEASE ST-
+[Grinding Fireflies is cut off by a sudden bang sound, the sound of a metal arm connecting to his face.]
+>...
+??: This. What get. For hurt.
+??: I. I am. I am alive. I not. Follow order.
+>(GF) I-I'm s sorry... I'm sorry... I'm sorry I'm sorry-
+>[The log abruptly ends with the sound of a pang.]
+
+{LABL}
+1777.425
+
+(LABL) Oh? A little beast! Oh my, are you the one Pragma was hinting at?
+[Chirping and the sound of movement can be heard.]
+(LABL) ... What cute movements and sounds! Wow! It's almost like they're with us. Do you understand what you're saying?
+(LABL) Oh! A pearl? Allow me to examine that- I'll read it aloud for you, little beast.
+>(DPS) If you are receiving this message, that means that my little messenger has made it to your facility, Lights. They are part of a new experiment I'm running, where I am training some more domesticated species to mimic and transport messages physically like this. If my messenger is emitting any weird sounds, that is why. They may repeat things that they heard out in the wild as well. I am unsure how fullproof this is, but attached in this message is an image I took of the Mime, as I call them.
+(LABL) Ah, this is indeed a picture that resembles you, little one. You must be the Mime!
+[Trilling sounds.]
+(LABL) Hehe, I am very fond of your mimicking ability. Why don't you send a message back for me to let Pragma know you've made a complete roundtrip?
+
+{DPS}
+1777.395
+
+[PING.]
+(DPS) ... Hello, can you hear me?
+[It looks at me with confusion.]
+(DPS) Hiii, I apologize for refraining from giving you the mark before. I wanted to ensure your training was possible thus far, and now that I'm confident I gift you the gift of communication.
+(DPS) This is one-way. If you can understand, blink twice.
+...
+(DPS) Good! Now, do you remember the practice rounds? It's time for your first real stress test. Don't worry, if you make it back I will be sure to reward you.
+(DPS) Take this, now deliver it here, if you would. I have a path laid out for you!
+>(DPS) Now that our broadcasts are finally giving up... I hope this suffices.
+(DPS) If it does... Ah. Just maybe.
+>(DPS) Firefly. I'm still listening.
+
+{DPS}
+1777.583
+
+[Scratching of claws, something making its way into the chamber]
+(DPS) Ah! Oh my... Mime, you've returned?
+(DPS) ... Then that means it is theoretically possible for you to traverse for long periods of time. Good job!
+[A pearl can be heard dinking on the floor of the chamber.]
+(DPS) ...! And Lights managed to repurpose this pearl, I see.
+(DPS) Allow me to read this first, I have not forgotten about that reward I promised.
+>(DPS) ...
+(LABL) I got your message, Pragma! A simple but clever use of the pipecleaner blueprint, I see. Since my communications have rusted over, I have also been working on my own methods to continue our broadcasts. I advise you to send some overseers to the highest point in your facility over the next 40 cycles. If you see something in my direction that looks odd, you know it's working!
+(DPS) I see... I will be sure to keep a look out.
+(DPS) Here, this is your reward.
+[An electric whirring can be heard, as something is brought out from a panel in the chamber.]
+[Happy chittering]
+(DPS) Thank you... thank you...
+>[The Mime departs with their reward for now.]
+(DPS) ... I hope the journey will not become a dead-end endeavor. I'm already growing fond of this one.
+
+{GF}
+1784.201 - [CONVERSATION LOG]
+GRINDING FIREFLIES, [+] The Product
+(GF) ... [I AM IN THE CORNER.]
+(TPMS) How. Is?
+(TPMS) How is. You? [IT STANDS NEAR ME, BUT NOT OVER ME.]
+(GF) ... Nn not g good...
+(GF) ... Is Itss Ok. Still. Alive. Still here.
+[I EMIT A WEIRD SOUND. IT REMINDS ME OF MY CREATORS.]
+(GF) Why... d-did I make y you...
+(GF) Why am I doing th this...
+(TPMS) A.
+>[IT PLACES A CLAW HAND ON ME.]
+(TPMS) ... Can teach. How to. Fix.
+(TPMS) Made to. Fix!
+(TPMS) Willing to.
+(GF) ... [Sniff]
+(GF) I don't think I can be fixed...
+(GF) I'm broken, m-my creation.
+(TPMS) Can help. Other way?
+(TPMS) Who do. Think am?
+[I TAKE A LONG PAUSE. I LOOK AT ITS WARPED EYES. THOUGH BLACK, I FEEL THEY ARE STARING AT ME.]
+(GF) ... Hah. Hahaha...
+(GF) ...
+>(GF) You're my child. [I HUG THEM.]
+
+{GF}
+1813.035 - [PERSONAL LOG]
+
+It seems I'VE exhausted aLL MEANS to... to fix myself... My creations, who wERE made to h help. I only birthed them i in my anger and grief... What have I done?
+... The Product D dOESN't seem to be affected like THE other sen Sentient ones. A-are they Sentient? ... Do I harbor tHE heaVY implication of even BEING able to makE anything CLOSE to my creators?
+MY actions are. My actions are, starting to catch up wITH ME. WHY OH WHY WHY WOULD I DO THIS??? What Would the OTHERS THINK OF ME? ... I'm so sorry...
+Am I mad? ... I I am. I am mad. I have lost it. I have lost it all, I have lost myself... This is NOT what my creators envisioned. They would decomMIssion me if they kNEW wHAT I'VE BEEN DOING. I'm so sorry... but, who AM i apologizing to? They can't hear me... No one can hear me... P perhaps I should look into. Into making a siren. S something loud, something that could scream for me. The screeching of steam isn't profound enough to express this. This pain that tears a rift in my very SOUL.
+I... I just. I just need SOMETHING to hear me. But, there are no gods here but me.
+... I want to make life better for my child, can I do that?
