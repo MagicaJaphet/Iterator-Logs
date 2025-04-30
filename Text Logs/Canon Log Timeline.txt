@@ -424,7 +424,7 @@ GRINDING FIREFLIES, [+] %TPMS%
 >[The log abruptly ends with the sound of a pang.]
 
 {LABL} #962f2f #dd9785
-1777.425
+1777.425 - [AUTOMATIC LOG]
 
 (LABL) Oh? A little beast! Oh my, are you the one Pragma was hinting at?
 [Chirping and the sound of movement can be heard.]
@@ -436,7 +436,7 @@ GRINDING FIREFLIES, [+] %TPMS%
 (LABL) Hehe, I am very fond of your mimicking ability. Why don't you send a message back for me to let Pragma know you've made a complete roundtrip?
 
 {DPS}
-1777.395
+1777.395 - [AUTOMATIC LOG]
 
 [PING.]
 (DPS) ... Hello, can you hear me?
@@ -451,7 +451,7 @@ GRINDING FIREFLIES, [+] %TPMS%
 >(DPS) Firefly. I'm still listening.
 
 {DPS} #962f2f #dd9785
-1777.583
+1777.583 - [AUTOMATIC LOG]
 
 [Scratching of claws, something making its way into the chamber]
 (DPS) Ah! Oh my... Mime, you've returned?
