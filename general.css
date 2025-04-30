@@ -97,14 +97,33 @@ body {
     box-shadow: 5px 0 10px #000;
 }
 
-.hidebutton {
-    text-align: center;
-    width: 100%;
-    font-size: 25px;
-    padding: 0;
-    margin: 0;
+.hide {
     display: none;
+    height: 3.1vh;
+    width: 100%;
+    border-radius: 0 0 15px 15px;
+    box-shadow: 0 5px 5px #000;
+    position: relative;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 0;
+    margin: 0;
+}
+
+.hidebutton {
+    position: relative;
+    top: 10px;
     transition: all 0.2s;
+}
+.hide:hover .hidebutton {
+    transform: scaleY(-1);
+}
+#tableofcontents:not(.opened) .hide:hover .hidebutton {
+    transform: scaleY(1);
+}
+
+#tableofcontents:not(.opened) .hidebutton {
+    transform: scaleY(-1);
 }
 
 .localgrouplist .icons {
@@ -126,11 +145,12 @@ body {
 .localgrouplist .icons, .localgroup .icons {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .icons img {
     margin: 0 10px;
-    object-fit: contain;
     scale: 0.9;
+    max-width: 100%;
     border-radius: 10px;
     box-shadow: 0 0 20px #000;
     transition: all 0.2s;
@@ -384,8 +404,16 @@ body {
     float: right;
     margin-right: 5%;
 }
+@media only screen and (max-width: 40em), (63em < width < 78em) {
+    .bio .characterimage {
+        display: none;
+    }
+    .bio {
+        grid: none;
+    }
+}
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 63em) {
 #logs {
     width: 95%;
     float: none;
@@ -394,29 +422,33 @@ body {
 
 #tableofcontents {
     width: 100vw;
-    height: 30px;
+    height: fit-content;
     float: none;
     top: 0;
+    border-radius: 0;
+    box-shadow: none;
+    background-color: rgba(0, 0, 0, 0.8);
     border-radius: 0 0 15px 15px;
-    box-shadow: 0 5px 10px #000;
-    transition: all 0.2s;
+    transition: top 0.5s cubic-bezier(0.075, 0.82, 0.165, 1), background-color 0.2s linear, color 0.2s linear;
+    top: -95vh;
 }
 #tableofcontents.opened {
-    height: 98vh;
+    top: 0;
 }
-#tableofcontents:hover {
+#tableofcontents:has(.hide:hover) {
     background-color: rgba(255, 255, 255, 0.4);
     color: #000;
+}
+.hide {
+    display: inline-block;
 }
 .bio {
     height: 55vh;
 }
-.hidebutton {
-    
+
+.credits {
+    display: none;
 }
-}
-.opened .hidebutton {
-    margin-top: 94vh;
 }
 
 .logborder {

@@ -6,22 +6,6 @@ document.body.appendChild($childBody);
 const $table = document.createElement("div");
 $table.id = "tableofcontents";
 $childBody.appendChild($table);
-// TEMPORARY DELETE LATER
-$table.classList.add("opened");
-
-var hideButton = document.createElement("div");
-        hideButton.textContent = "▼";
-        hideButton.classList.add("hidebutton");
-        $table.appendChild(hideButton);
-
-$table.addEventListener("click", (onClick) => {
-    if ($table.classList.length > 0 && $table.classList.contains("opened")) {
-        $table.classList.remove("opened");
-    }
-    else {
-        $table.classList.add("opened");
-    }
-});
 
 const $logs = document.createElement("div");
 $logs.id = "logs";
@@ -391,6 +375,9 @@ if ($logs != null) {
                                                 else {
                                                     window.location.href = "#" + logName;
                                                 }
+                                                if ($table.classList.includes("opened")) {
+                                                    $table.classList.remove("opened");
+                                                }
                                             };
                                             logInnerContainer.appendChild(logtext);
                                         }
@@ -541,11 +528,30 @@ if ($logs != null) {
                 })
                 .catch((e) => console.error(e));
 
+                var hideDiv = document.createElement("div");
+                hideDiv.classList.add("hide");
+                $table.appendChild(hideDiv);
+
+                var hideButton = document.createElement("div");
+                hideButton.textContent = "▼";
+                hideButton.classList.add("hidebutton");
+                hideDiv.appendChild(hideButton);
+                hideDiv.addEventListener("click", (onClick) => {
+                    if ($table.classList.length > 0 && $table.classList.contains("opened")) {
+                        $table.classList.remove("opened");
+                    }
+                    else {
+                        $table.classList.add("opened");
+                    }
+                });
+                $table.classList.add("opened");
+                
                 // Append credits after information
                 var credits = document.createElement("div");
                 credits.classList.add("credits");
                 credits.textContent = "© 2025, Made by MagicaJaphet";
                 $table.appendChild(credits);
+
             })
             .catch((e) => console.error(e));
         })
