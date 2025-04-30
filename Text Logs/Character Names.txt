@@ -1,3 +1,4 @@
+A {[#A]} [Administrator] #cacaca
 GF {GF} [Grinding Fireflies] #EE7043
 DPS {DPS} [Dancing Pragmatic Scope] #FFC6F0
 DLS {DLS} [Drawnout Lyre Strings] #00CAD2
@@ -11,4 +12,3 @@ HSDS {HSDS} [Heap of Suns, Drooping Seedlings] #b45a30
 TTUM {TTUM} [Thirteen Trains upon Unhindered Masks] #113097
 LBSS {LBSS} [Leaping Birds of Six Saints] #323847
 TPMS {[+]} [The Product of My Successes] #d1c3cd
-A {[#A]} [Administrator] #cacaca
